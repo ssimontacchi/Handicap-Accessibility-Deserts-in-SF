@@ -5,7 +5,7 @@ As someone with a disabled brother, I would like to use my time in the program t
 
 
 ## Topology of SF
-This Random Forest model of the topology of San Francisco was created with data from over 9000 requests of the Google Maps Elevation API.
+This Random Forest model of the topology of San Francisco was created with data from close to 10,000 requests of the Google Maps Elevation API.
 
 ![download 5](https://user-images.githubusercontent.com/29785389/43856146-8fa4018a-9afc-11e8-9902-0fef6a850484.png)
 

@@ -11,9 +11,9 @@ This graph, of the distance to the nearest transit stop from a location in the c
 
 
 ## Topology of SF
-This graph  of the topology of San Francisco was created with data from over 9000 requests of the Google Maps Elevation API.
+This Random Forest model of the topology of San Francisco was created with data from over 9000 requests of the Google Maps Elevation API.
 
-![download 2](https://user-images.githubusercontent.com/29785389/43613749-856cf564-9665-11e8-80a1-249ac12e211c.png)
+![download 5](https://user-images.githubusercontent.com/29785389/43856146-8fa4018a-9afc-11e8-9902-0fef6a850484.png)
 
 
 ## Elevation Contour Lines

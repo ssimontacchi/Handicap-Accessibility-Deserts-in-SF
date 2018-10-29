@@ -9,7 +9,7 @@ Next, I would like to use the PUMS dataset, released by the US Census, to identi
 
 
 ## Topology of SF
-This Random Forest model of the topology of San Francisco was created with data from close to 10,000 requests of the Google Maps Elevation API.
+This model of the topology of San Francisco was created with data from nearly 10,000 requests of the Google Maps Elevation API.
 
 ![download 5](https://user-images.githubusercontent.com/29785389/43856146-8fa4018a-9afc-11e8-9902-0fef6a850484.png)
 

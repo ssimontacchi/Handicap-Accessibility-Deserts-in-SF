@@ -1,7 +1,11 @@
 # capstone-project
 Identifying Accessibility Deserts in San Francisco
 
-As someone with a disabled brother, I would like to use my time in the program to develop an interactive map that will identify accessibility deserts in San Francisco. To accomplish this, I will first use elevation contour maps to determine, with machine learning, a function that will predict elevation given a click on a map of the city. Then, factoring in the distance and change in elevation to get to the nearest bus stop, I will be able to use this information to create a heatmap of the city, with a focus on ease of accessibility. This analysis could also benefit private transportation companies like Lyft and Uber to help select the easiest locations for pickup and where to send drivers to serve the handicapped. This project could also be extremely useful for company marketing.
+As someone with a disabled brother, I would like to use my time in the program to develop an interactive map that will identify accessibility deserts in San Francisco. This project is important to me because my own brother is disabled and it is important to remember what able-bodied citizens take for granted on a daily basis. This project will also identify areas where we can improve transit options for the disable and bring shed light on market opportunities for private transportation companies. 
+
+So far I have pulled the information for the heat-map from Google's Places and Elevation APIs, used Random Forest and kNN algorithms to accurately model them, and would next like to survey the handicapped community to better understand how these features should be weighted in the heat-map. 
+
+Next, I would like to use the PUMS dataset, released by the US Census, to identify the neighborhoods where the physically disabled live in San Francisco, to identify if these communities intentionally have moved nearer to transit stops and how they have changed over time, and to show the impact of these accessibility deserts on the actual people of San Francisco. Due to the size of these datasets, I will use Spark to analyze them, which I have worked with extensively over the last four months as a full-time Fellow in Galvanize's Data Science Immersive program.
 
 
 ## Topology of SF

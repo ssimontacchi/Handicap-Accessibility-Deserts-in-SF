@@ -1,4 +1,4 @@
-# capstone-project
+# Accessibility_Deserts_in_SF
 Identifying Accessibility Deserts in San Francisco
 
 As someone with a disabled brother, I would like to use my time in the program to develop an interactive map that will identify accessibility deserts in San Francisco. This project is important to me because my own brother is disabled and it is important to remember what able-bodied citizens take for granted on a daily basis. This project will also identify areas where we can improve transit options for the disable and bring shed light on market opportunities for private transportation companies. 
